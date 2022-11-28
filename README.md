@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dmitriy!
+- 👀 I’m interested in python developer
+- 🌱 I’m currently learning python language
+- 📫 How to reach me tegram: @Ben_Gun86, +375333524005
